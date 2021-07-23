@@ -68,7 +68,7 @@ This is a project of Group 18 in the course 'Advanced Experiment Design in Unity
 ## Further Information
 The project is a game for the Advanced Experiment Design in Unity course of the SoSe2021.
 
-> IGNORE THIS PART IF YOU ARE NOT A CONTRIBUTOR__
+> IGNORE THIS PART IF YOU ARE NOT A CONTRIBUTOR\
 > How a `README.md` should look like
 >
 > https://github.com/18F/open-source-guide/blob/18f-pages/pages/making-readmes-readable.md
