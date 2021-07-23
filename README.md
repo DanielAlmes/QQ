@@ -26,11 +26,10 @@ To encounter this tough task, a time limit is set to increase the pressure.
     * Options (E.g. if there should be a timer aka hard-level)
     * Highscore (listing the achievements of previous games)
     * Exit (the game)
-<br />
 
 ![](pictures_D/MainMenu_Picture.png)
 
-<br /><br />
+<br />
 * Music
     * There will be music that should give a feeling of "horror" as one would expect in such a game
 * Scenes
