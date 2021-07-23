@@ -30,6 +30,7 @@ To encounter this tough task, a time limit is set to increase the pressure.
 ![](pictures_D/MainMenu_Picture.png)
 
 <br />
+
 * Music
     * There will be music that should give a feeling of "horror" as one would expect in such a game
 * Scenes
@@ -67,7 +68,7 @@ This is a project of Group 18 in the course 'Advanced Experiment Design in Unity
 ## Further Information
 The project is a game for the Advanced Experiment Design in Unity course of the SoSe2021.
 
-> IGNORE THIS PART IF YOU ARE NOT A CONTRIBUTOR
+> IGNORE THIS PART IF YOU ARE NOT A CONTRIBUTOR__
 > How a `README.md` should look like
 >
 > https://github.com/18F/open-source-guide/blob/18f-pages/pages/making-readmes-readable.md
