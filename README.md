@@ -27,7 +27,7 @@ To encounter this tough task, a time limit is set to increase the pressure.
     * Highscore (listing the achievements of previous games)
     * Exit (the game)
 
-![](pictures_D/MainMenu_Picture.png)
+![](pictures/MainMenu_Picture.png)
 
 <br />
 
